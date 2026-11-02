@@ -1,0 +1,17 @@
+# Local preview / generated publish staging
+/node_modules/
+/_site/
+
+# Local QA, design history and cleanup records
+/evidence/
+/QA.md
+/DESIGN-SPEC.md
+/MOTIONSITES-SOURCES.md
+/CLEANUP-REPORT.md
+/DEPLOYMENT-CHECK.md
+
+# Local configuration and operating-system artifacts
+.env*
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+{
+  "name": "spotifyse-landing",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Independent local MotionSites landing-page experiment for Spotifyse",
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs",
+    "build:pages": "node scripts/build-pages.cjs"
+  },
+  "engines": { "node": ">=18" }
+}
